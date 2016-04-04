@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Python encoding problem"
-date:   Tue Apr  5 04:30:41 CST 2016
+date:   2016-04-05 04:33:17+08:00
 ---
 Hello world!
